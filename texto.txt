@@ -1,0 +1,9 @@
+-- PIP'S --
+pip install discord.py   
+pip install python-dotenv
+pip install asyncio  
+pip install unidecode
+pip install requests
+
+-- RODANDO --
+python main.py
